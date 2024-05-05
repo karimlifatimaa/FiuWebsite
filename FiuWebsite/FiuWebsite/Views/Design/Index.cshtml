@@ -1,4 +1,4 @@
-﻿<!--  design section start -->
+﻿﻿<!--  design section start -->
 <div class="design_section layout_padding">
     <div id="my_slider" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
@@ -16,15 +16,20 @@
                                     <div class="col-md-4">
                                         <div class="box_main">
                                             <p class="chair_text">@furniture.Name</p>
-                                            <div class="image_3" href="#"><img src="~/images/img-3.png"></div>
-                                            <p class="chair_text">@furniture.Price</p>
-                                            <div class="buy_bt"><a href="#">Buy Now</a></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="box_main">
-                                            <p class="chair_text">@furniture.Name</p>
+                                            @if (furniture.Name == "Chair")
+                                            {
+                                                <div class="image_3" href="#"><img src="~/images/img-3.png"></div>
+
+                                            }
+                                            else if (furniture.Name == "Sofa")
+                                            {
                                             <div class="image_4" href="#"><img src="~/images/img-4.png"></div>
+                                                
+                                            }
+                                            else{
+
+                                            <div class="image_4" href="#"><img src="~/images/img-5.png"></div>
+                                            }
                                             <p class="chair_text">@furniture.Price</p>
                                             <div class="buy_bt"><a href="#">Buy Now</a></div>
                                         </div>
@@ -32,7 +37,43 @@
                                     <div class="col-md-4">
                                         <div class="box_main">
                                             <p class="chair_text">@furniture.Name</p>
-                                            <div class="image_4" href="#"><img src="~/images/img-5.png"></div>
+                                            @if (furniture.Name == "Chair")
+                                            {
+                                                <div class="image_3" href="#"><img src="~/images/img-3.png"></div>
+
+                                            }
+                                            else if (furniture.Name == "Sofa")
+                                            {
+                                                <div class="image_4" href="#"><img src="~/images/img-4.png"></div>
+
+                                            }
+                                            else
+                                            {
+
+                                                <div class="image_4" href="#"><img src="~/images/img-5.png"></div>
+                                            }
+                                            <p class="chair_text">@furniture.Price</p>
+                                            <div class="buy_bt"><a href="#">Buy Now</a></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="box_main">
+                                            <p class="chair_text">@furniture.Name</p>
+                                            @if (furniture.Name == "Chair")
+                                            {
+                                                <div class="image_3" href="#"><img src="~/images/img-3.png"></div>
+
+                                            }
+                                            else if (furniture.Name == "Sofa")
+                                            {
+                                                <div class="image_4" href="#"><img src="~/images/img-4.png"></div>
+
+                                            }
+                                            else
+                                            {
+
+                                                <div class="image_4" href="#"><img src="~/images/img-5.png"></div>
+                                            }
                                             <p class="chair_text">@furniture.Price</p>
                                             <div class="buy_bt"><a href="#">Buy Now</a></div>
                                         </div>

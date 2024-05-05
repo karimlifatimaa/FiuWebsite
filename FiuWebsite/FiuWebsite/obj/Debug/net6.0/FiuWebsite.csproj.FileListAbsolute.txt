@@ -26,3 +26,4 @@ C:\Users\User1\OneDrive\Desktop\FiuWebsite\FiuWebsite\FiuWebsite\obj\Debug\net6.
 C:\Users\User1\OneDrive\Desktop\FiuWebsite\FiuWebsite\FiuWebsite\obj\Debug\net6.0\FiuWebsite.pdb
 C:\Users\User1\OneDrive\Desktop\FiuWebsite\FiuWebsite\FiuWebsite\obj\Debug\net6.0\FiuWebsite.genruntimeconfig.cache
 C:\Users\User1\OneDrive\Desktop\FiuWebsite\FiuWebsite\FiuWebsite\obj\Debug\net6.0\ref\FiuWebsite.dll
+C:\Users\User1\OneDrive\Desktop\FiuWebsite\FiuWebsite\FiuWebsite\obj\Debug\net6.0\FiuWebsite.sourcelink.json

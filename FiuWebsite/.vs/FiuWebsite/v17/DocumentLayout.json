@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{B98A6EB0-F3FF-4128-BC73-AA079BAEF9E9}|FiuWebsite\\FiuWebsite.csproj|solutionrelative:fiuwebsite\\views\\design\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B98A6EB0-F3FF-4128-BC73-AA079BAEF9E9}|FiuWebsite\\FiuWebsite.csproj|c:\\users\\user1\\onedrive\\desktop\\fiuwebsite\\fiuwebsite\\fiuwebsite\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98A6EB0-F3FF-4128-BC73-AA079BAEF9E9}|FiuWebsite\\FiuWebsite.csproj|solutionrelative:fiuwebsite\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B98A6EB0-F3FF-4128-BC73-AA079BAEF9E9}|FiuWebsite\\FiuWebsite.csproj|c:\\users\\user1\\onedrive\\desktop\\fiuwebsite\\fiuwebsite\\fiuwebsite\\controllers\\designcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B98A6EB0-F3FF-4128-BC73-AA079BAEF9E9}|FiuWebsite\\FiuWebsite.csproj|solutionrelative:fiuwebsite\\controllers\\designcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B98A6EB0-F3FF-4128-BC73-AA079BAEF9E9}|FiuWebsite\\FiuWebsite.csproj|c:\\users\\user1\\onedrive\\desktop\\fiuwebsite\\fiuwebsite\\fiuwebsite\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B98A6EB0-F3FF-4128-BC73-AA079BAEF9E9}|FiuWebsite\\FiuWebsite.csproj|solutionrelative:fiuwebsite\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B98A6EB0-F3FF-4128-BC73-AA079BAEF9E9}|FiuWebsite\\FiuWebsite.csproj|c:\\users\\user1\\onedrive\\desktop\\fiuwebsite\\fiuwebsite\\fiuwebsite\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B98A6EB0-F3FF-4128-BC73-AA079BAEF9E9}|FiuWebsite\\FiuWebsite.csproj|solutionrelative:fiuwebsite\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B98A6EB0-F3FF-4128-BC73-AA079BAEF9E9}|FiuWebsite\\FiuWebsite.csproj|c:\\users\\user1\\onedrive\\desktop\\fiuwebsite\\fiuwebsite\\fiuwebsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,7 +66,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\FiuWebsite\\FiuWebsite\\FiuWebsite\\Views\\Contact\\Index.cshtml",
               "RelativeDocumentMoniker": "FiuWebsite\\Views\\Contact\\Index.cshtml",
@@ -85,14 +85,14 @@
               "RelativeDocumentMoniker": "FiuWebsite\\Views\\Design\\Index.cshtml",
               "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\FiuWebsite\\FiuWebsite\\FiuWebsite\\Views\\Design\\Index.cshtml",
               "RelativeToolTip": "FiuWebsite\\Views\\Design\\Index.cshtml",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAACgAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-04T17:10:27.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DesignController.cs",
               "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\FiuWebsite\\FiuWebsite\\FiuWebsite\\Controllers\\DesignController.cs",
               "RelativeDocumentMoniker": "FiuWebsite\\Controllers\\DesignController.cs",
@@ -104,13 +104,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "AboutController.cs",
               "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\FiuWebsite\\FiuWebsite\\FiuWebsite\\Controllers\\AboutController.cs",
               "RelativeDocumentMoniker": "FiuWebsite\\Controllers\\AboutController.cs",
               "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\FiuWebsite\\FiuWebsite\\FiuWebsite\\Controllers\\AboutController.cs",
               "RelativeToolTip": "FiuWebsite\\Controllers\\AboutController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-04T17:05:07.408Z"
             },
@@ -128,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\FiuWebsite\\FiuWebsite\\FiuWebsite\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FiuWebsite\\Views\\Shared\\_Layout.cshtml",
@@ -140,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ContactController.cs",
               "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\FiuWebsite\\FiuWebsite\\FiuWebsite\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "FiuWebsite\\Controllers\\ContactController.cs",
