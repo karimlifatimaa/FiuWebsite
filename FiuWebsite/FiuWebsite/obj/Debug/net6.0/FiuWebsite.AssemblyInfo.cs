@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FiuWebsite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74ef8e3a5f384b0c2acf54ff3dfdff6861fcbf5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8356d7113c7c18b523368a7648be5523c68c3ed6")]
 [assembly: System.Reflection.AssemblyProductAttribute("FiuWebsite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FiuWebsite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

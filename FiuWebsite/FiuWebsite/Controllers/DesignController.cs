@@ -19,6 +19,7 @@ namespace FiuWebsite.Controllers
                 Name = "Sofa",
                 Price = 250
             };
+           
             Furniture furniture2 = new Furniture()
             {
                
@@ -32,7 +33,8 @@ namespace FiuWebsite.Controllers
             furnitures.Add(furniture1);
             furnitures.Add(furniture2);
             furnitures.Add(furniture3);
-           
+
+
 
             ViewBag.FurnitureList= furnitures;
 
